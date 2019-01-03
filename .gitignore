@@ -1,4 +1,4 @@
 /.settings
 
 /Debug/*
-!/Debug/H743ZI_LwIP_test1.hex
+!/Debug/*.hex
