@@ -1,7 +1,7 @@
 # Nucleo-H743ZI + Ethernet + LwIP (without RTOS)
 * Working (tested) example of **LwIP** stack usage (without RTOS).
 * This example uses static IP address **192.168.1.100** (/24).
-* If you want to make a **web server**, see the **[httpd](/tree/httpd)** branch.
+* If you want to make a **web server**, see the **httpd** branch.
 
 Pay attention to the code lines below. It will help you to understand how to configure **H7** for the correct **Ethernet/LwIP** work.
 
